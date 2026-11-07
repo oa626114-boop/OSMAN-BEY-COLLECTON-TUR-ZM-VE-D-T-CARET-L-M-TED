@@ -1,7 +1,7 @@
-OSMAN BEY COLLECTION website update
+OSMAN BEY COLLECTION — Unified single-page website
 
-Upload these two files to the root of the GitHub repository, replacing index.html and adding tourism.html:
-- index.html (updated homepage with Tourism & Travel link and section)
-- tourism.html (dedicated tourism page)
-
-Do not upload this README in place of either HTML file. Keep GitHub Pages set to main / (root).
+Upload index.html to the ROOT of your GitHub repository and replace the existing index.html.
+The tourism and travel section is now integrated into the homepage. Navigation links scroll to sections on the same page.
+Languages: Arabic, English and Turkish.
+Keep the existing tourism.html file until you have checked the new homepage. It is no longer required for the integrated tourism section.
+GitHub Pages: Settings > Pages > Deploy from a branch > main > /(root).
