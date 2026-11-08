@@ -1,19 +1,17 @@
-OSMAN BEY COLLECTON — Website package
+OSMAN BEY COLLECTON — Website package updated with company tax-registration information.
 
-1) Upload the contents of this ZIP to the root of the GitHub repository (main branch).
-2) Keep index.html in the repository root and keep the assets folder structure unchanged.
-3) In Cloudflare Pages, choose Continue with GitHub, select the OSMAN BEY repository, production branch main, framework preset None, build command blank, output directory / (or .).
-4) Deploy. Use the generated pages.dev URL.
+Added based on the supplied tax plate:
+- Tax number: 6481557833
+- Tax office: HOCAPAŞA
+- Commencement date: 07.12.2021
+- Activity code: 469004
+- Activity description: non-specialised wholesale trade with other countries
 
-Features:
-- Responsive Arabic / Turkish / English interface
-- Eight separate project portfolio folders
-- Ten images in each gallery with image lightbox navigation
-- Company profile and contact inquiry mailto form
-- Illustrative-project disclaimer
+The company street address is intentionally not displayed because the two supplied
+documents show different addresses. The tax document supports tax registration; it does
+not, by itself, establish every professional or sector-specific licence.
 
-Important:
-- The contact form opens the visitor's email app; it does not store submissions on a server.
-- No administrator login or cloud database is included. Persistent shared image management requires a backend/CMS.
-- Images are illustrative references, not proof of completed or approved projects.
-- Confirm all legal/company details before publication. No private bank or identity information is included.
+The supplied bank account, IBAN, passport, and personal representative details are not
+included in the public website package.
+
+Upload index.html and the full assets/ directory to the repository root.
